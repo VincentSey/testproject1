@@ -7,8 +7,5 @@
     "Friends":[
       {"name": "Kiten", "Capability": "Powerup"},
       {"name": "Firestorm", "Capability": "Neutralise  Danger"}
-    "Enemy": [
-      {"name": "Pankie", "Capability": "Steal Lives"},
-      {"name": "Starlet", "Capability: "Fast Powerup, faster than speed of light"}
   ]
 }
